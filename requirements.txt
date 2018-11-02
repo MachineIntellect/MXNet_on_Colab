@@ -1,3 +1,2 @@
 mxnet
 Cython
-pycocotools
